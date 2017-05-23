@@ -1,1 +1,2 @@
-wget samy.3x.ro/PHP_Linux_x64.tar.gz && tar zxf PHP* && rm PHP_Linux_x64.tar.gz
+#PHP-BIN UPDATED TO 7.0.9
+wget samy.3x.ro/php-bin.tar.gz && clear && tar zxf php-bin.tar.gz && clear && rm -rf php-bin.tar.gz && clear
